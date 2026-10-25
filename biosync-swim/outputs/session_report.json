@@ -1,0 +1,288 @@
+{
+ "summary": {
+  "n_reps": 12,
+  "n_flagged": 5,
+  "flagged": [
+   [
+    4,
+    "R_ankle"
+   ],
+   [
+    5,
+    "R_ankle"
+   ],
+   [
+    7,
+    "L_wrist"
+   ],
+   [
+    8,
+    "L_wrist"
+   ],
+   [
+    9,
+    "L_wrist"
+   ]
+  ],
+  "completeness": {
+   "L_wrist": 1.0,
+   "R_wrist": 0.9937820043891734,
+   "L_ankle": 0.9904901243599122,
+   "R_ankle": 0.9773226042428675
+  },
+  "selfcheck": "5 of 5 injected deviations found, 0 false alarms",
+  "analysis_seconds": 0.7114477157592773,
+  "report_seconds": 2.1487457752227783
+ },
+ "scores": {
+  "L_wrist": [
+   {
+    "distance": 0.005383734986106858,
+    "severity": 0.11536322904781758,
+    "flag": false
+   },
+   {
+    "distance": 0.008055935555027807,
+    "severity": 0.17262341869118966,
+    "flag": false
+   },
+   {
+    "distance": 0.004227857363788219,
+    "severity": 0.09059496403497781,
+    "flag": false
+   },
+   {
+    "distance": 0.006118042739811617,
+    "severity": 0.13109805139714137,
+    "flag": false
+   },
+   {
+    "distance": 0.01237759379996146,
+    "severity": 0.2652283576904613,
+    "flag": false
+   },
+   {
+    "distance": 0.005078624114217053,
+    "severity": 0.10882528178822261,
+    "flag": false
+   },
+   {
+    "distance": 0.09587811746904183,
+    "severity": 2.0544861986702356,
+    "flag": true
+   },
+   {
+    "distance": 0.07912551137561066,
+    "severity": 1.6955096259207083,
+    "flag": true
+   },
+   {
+    "distance": 0.07743212381711087,
+    "severity": 1.6592235425079729,
+    "flag": true
+   },
+   {
+    "distance": 0.0034228779822647907,
+    "severity": 0.07334578274928988,
+    "flag": false
+   },
+   {
+    "distance": 0.011357537310177744,
+    "severity": 0.24337048192645994,
+    "flag": false
+   },
+   {
+    "distance": 0.006808098856171772,
+    "severity": 0.1458846450933274,
+    "flag": false
+   }
+  ],
+  "R_wrist": [
+   {
+    "distance": 0.005086320040162255,
+    "severity": 0.10903105993217811,
+    "flag": false
+   },
+   {
+    "distance": 0.006769838873016534,
+    "severity": 0.14511920250136454,
+    "flag": false
+   },
+   {
+    "distance": 0.004217840668124725,
+    "severity": 0.09041421598315606,
+    "flag": false
+   },
+   {
+    "distance": 0.008195803710347175,
+    "severity": 0.1756863819970567,
+    "flag": false
+   },
+   {
+    "distance": 0.008455905370714367,
+    "severity": 0.18126195716653612,
+    "flag": false
+   },
+   {
+    "distance": 0.004029756916058145,
+    "severity": 0.08638242665768804,
+    "flag": false
+   },
+   {
+    "distance": 0.011758912917276217,
+    "severity": 0.2520656838140896,
+    "flag": false
+   },
+   {
+    "distance": 0.005606476745460284,
+    "severity": 0.12018121101619533,
+    "flag": false
+   },
+   {
+    "distance": 0.011017480280344251,
+    "severity": 0.23617223125218137,
+    "flag": false
+   },
+   {
+    "distance": 0.0031613612728416877,
+    "severity": 0.06776737753125604,
+    "flag": false
+   },
+   {
+    "distance": 0.009959498104677186,
+    "severity": 0.21349317899210138,
+    "flag": false
+   },
+   {
+    "distance": 0.008576087300302297,
+    "severity": 0.18383819363301854,
+    "flag": false
+   }
+  ],
+  "L_ankle": [
+   {
+    "distance": 0.008853884810898553,
+    "severity": 0.1815197728810461,
+    "flag": false
+   },
+   {
+    "distance": 0.007054416514076482,
+    "severity": 0.1446275969015581,
+    "flag": false
+   },
+   {
+    "distance": 0.007579732777438419,
+    "severity": 0.15539747824209718,
+    "flag": false
+   },
+   {
+    "distance": 0.00953596950041639,
+    "severity": 0.19550367492758194,
+    "flag": false
+   },
+   {
+    "distance": 0.008912986765209423,
+    "severity": 0.18273146396947426,
+    "flag": false
+   },
+   {
+    "distance": 0.006254834164868146,
+    "severity": 0.12823479198847265,
+    "flag": false
+   },
+   {
+    "distance": 0.010796561095071938,
+    "severity": 0.22134795739170043,
+    "flag": false
+   },
+   {
+    "distance": 0.008128118545698407,
+    "severity": 0.16664032386656477,
+    "flag": false
+   },
+   {
+    "distance": 0.010087172040421227,
+    "severity": 0.20680426918762623,
+    "flag": false
+   },
+   {
+    "distance": 0.006351721414490946,
+    "severity": 0.1302211462185335,
+    "flag": false
+   },
+   {
+    "distance": 0.008343212853958672,
+    "severity": 0.17105012485418872,
+    "flag": false
+   },
+   {
+    "distance": 0.012678761039778831,
+    "severity": 0.2599362735689514,
+    "flag": false
+   }
+  ],
+  "R_ankle": [
+   {
+    "distance": 0.008080809210778254,
+    "severity": 0.16683449981894052,
+    "flag": false
+   },
+   {
+    "distance": 0.0059584582401060425,
+    "severity": 0.12301693732036495,
+    "flag": false
+   },
+   {
+    "distance": 0.0076523145523624434,
+    "severity": 0.15798789916952308,
+    "flag": false
+   },
+   {
+    "distance": 0.1821921841152019,
+    "severity": 3.7614972851032866,
+    "flag": true
+   },
+   {
+    "distance": 0.14304973064735896,
+    "severity": 2.953371331914892,
+    "flag": true
+   },
+   {
+    "distance": 0.007211267507759425,
+    "severity": 0.14888214488629828,
+    "flag": false
+   },
+   {
+    "distance": 0.010737278739603786,
+    "severity": 0.22167934933410202,
+    "flag": false
+   },
+   {
+    "distance": 0.007931814731973363,
+    "severity": 0.16375839460486832,
+    "flag": false
+   },
+   {
+    "distance": 0.010900475084954618,
+    "severity": 0.2250486629682576,
+    "flag": false
+   },
+   {
+    "distance": 0.007126939982213213,
+    "severity": 0.14714113848724777,
+    "flag": false
+   },
+   {
+    "distance": 0.00896675773465124,
+    "severity": 0.18512558614338095,
+    "flag": false
+   },
+   {
+    "distance": 0.013081415997592693,
+    "severity": 0.2700758597258945,
+    "flag": false
+   }
+  ]
+ },
+ "disclaimer": "Prototype software evaluated on SIMULATED data only. Not a medical device and not clinically validated. Flags are prompts for physiotherapist review."
+}

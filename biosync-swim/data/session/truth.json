@@ -1,0 +1,50 @@
+{
+ "start_offsets_s": {
+  "L_wrist": 0.0,
+  "R_wrist": 0.37,
+  "L_ankle": 0.81,
+  "R_ankle": 0.52
+ },
+ "clap_real_s": 2.0,
+ "rep_durations_s": [
+  2.138,
+  2.328,
+  2.243,
+  1.858,
+  1.91,
+  2.311,
+  1.704,
+  2.275,
+  2.258,
+  2.028,
+  1.912,
+  1.895
+ ],
+ "deviations": [
+  [
+   6,
+   "L_wrist",
+   "reduced_range"
+  ],
+  [
+   7,
+   "L_wrist",
+   "reduced_range"
+  ],
+  [
+   8,
+   "L_wrist",
+   "reduced_range"
+  ],
+  [
+   3,
+   "R_ankle",
+   "overshoot"
+  ],
+  [
+   4,
+   "R_ankle",
+   "overshoot"
+  ]
+ ]
+}
